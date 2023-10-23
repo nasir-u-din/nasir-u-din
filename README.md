@@ -9,6 +9,6 @@
 Let's connect and make the digital world better together!
 
 
-Due to location changes, my OPT code is currently not available, so I'm using this repository for my work. You can find my original repositories on [GitHub](https://github.com/naxir).
+**Due to location changes, my OPT code is currently not available, so I'm using this repository for my work. You can find my original repositories on [GitHub](https://github.com/naxir)**
 
 Let's connect and make the digital world better together!
