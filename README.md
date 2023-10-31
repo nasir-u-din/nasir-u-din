@@ -12,21 +12,72 @@ Let's connect and make the digital world better together!
 
 💼 **Skills:**
 
-| Domain                             | Technical Skills                  | Soft Skills               | Methodologies                 | Development Tools |
-|-----------------------------------|-----------------------------------|------------------------|-------------------------------|--------------------|
-| **Software Engineering**           | CI/CD                             | Client Relationship Management | Agile, Kanban, Scrum | Android Studio, Confluence, Firebase, GitHub, JSON, JavaScript, Jest, Jira |
-| **Security**                       | Security                          | Communication             |                           | Mobile Development & Build Tools, REST API |
-| **Software Development Practices**  | Software Engineering Practices    | Continuous Learning       |                           | React Native, Redux, Redux Thunk, TypeScript |
-| **E-commerce**                     | Software Engineering Processes    | Presenting                |                           | Xcode |
-| **Healthcare**                     | Unit Testing                      | Problem-solving           |                           | axios, AWS AppSync, AWS Lambda |
-| **Insurance**                      |                                  | Delivery Excellence        |                           | Amazon S3, Appium, Apple Push Notification Service |
-| **Nursing**                        |                                  | Mentoring                 |                           | Azure Visual Studio App Center, Cloud Storage for Firebase |
-| **Mobile Banking**                 |                                  | Ownership                 |                           | Detox, Fastlane, Firebase Authentication |
-| **Wealth Management**              |                                  | Team Management           |                           | Firebase Cloud Messaging, Firebase Crashlytics |
-|                                   |                                  |                           |                           | Firebase Realtime Database, Formik, Git |
-|                                   |                                  |                           |                           | GitHub Actions, Google Analytics for Firebase |
-|                                   |                                  |                           |                           | Google Cloud Functions, Google Maps API |
-|                                   |                                  |                           |                           | Graylog, JavaScript Development Tools |
-|                                   |                                  |                           |                           | Linters and Formatters, Redux Saga |
-|                                   |                                  |                           |                           | lodash, mobx |
-|                                   |                                  |                           |                           | Amazon DynamoDB, Android |
+| Skills |
+|--------|
+| CI/CD |
+| Security |
+| Software Engineering Practices |
+| Software Engineering Processes |
+| Unit Testing |
+| E-commerce |
+| Health Insurance |
+| Healthcare Provider |
+| Insurance |
+| Nursing |
+| Mobile Banking |
+| Wealth Management |
+| Client Relationship Management |
+| Communication |
+| Continuous Learning |
+| Presenting |
+| Problem-solving |
+| Delivery Excellence |
+| Mentoring |
+| Ownership |
+| Team Management |
+| Agile |
+| Kanban |
+| Scrum |
+| Android Studio |
+| Confluence |
+| Firebase |
+| GitHub |
+| JSON |
+| JavaScript |
+| Jest |
+| Jira |
+| Mobile Development & Build Tools |
+| REST API |
+| React Native |
+| Redux |
+| Redux Thunk |
+| TypeScript |
+| Xcode |
+| Axios |
+| AWS AppSync |
+| AWS Lambda |
+| Amazon S3 |
+| Appium |
+| Apple Push Notification Service |
+| Azure Visual Studio App Center |
+| Cloud Storage for Firebase |
+| Detox |
+| Fastlane |
+| Firebase Authentication |
+| Firebase Cloud Messaging |
+| Firebase Crashlytics |
+| Firebase Realtime Database |
+| Formik |
+| Git |
+| GitHub Actions |
+| Google Analytics for Firebase |
+| Google Cloud Functions |
+| Google Maps API |
+| Graylog |
+| JavaScript Development Tools |
+| Linters and Formatters |
+| Redux Saga |
+| lodash |
+| mobx |
+| Amazon DynamoDB |
+| Android |
