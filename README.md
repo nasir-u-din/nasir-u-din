@@ -12,10 +12,10 @@ Let's connect and make the digital world better together!
 
 💼 **Skills:**
 
-| Skills |                                                             | Contributions |  
-|--------|                                                             |--------| 
-| CI/CD |                                                              | React S3 Uploader |          
-| Security |                                                           | Native Base |
+| Skills |                                                              
+|--------|                                                             
+| CI/CD |                                                                       
+| Security |                                                           
 | Software Engineering Practices |
 | Software Engineering Processes |
 | Unit Testing |
