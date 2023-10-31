@@ -84,3 +84,11 @@ Let's connect and make the digital world better together!
 | Clean Code |
 | Pair Programming | 
 
+
+
+💼 **Contributions:**
+
+| Libraries |                                                              
+|--------|                                                             
+| React S3 Uploader |                                                                       
+| Native Base |
