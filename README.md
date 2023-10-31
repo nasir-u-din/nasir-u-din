@@ -81,3 +81,6 @@ Let's connect and make the digital world better together!
 | mobx |
 | Amazon DynamoDB |
 | Android |
+| Clean Code |
+| Pair Programming | 
+
